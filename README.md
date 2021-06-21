@@ -1,7 +1,7 @@
-# text_analytics
+#### Text Analytics (preprocessing and simple models)
 Scripts related to basics data preprocessing and models like LDA, MNB 
 
-# What are the different files
+#### What are the different files
 ```
 - submit_q0 -> Creating a .csv from the .json data and storing into the local project structure
 - submit_q1 -> Reading the required data and performing certain preprocessing steps
@@ -12,14 +12,14 @@ Scripts related to basics data preprocessing and models like LDA, MNB
 - submit_q6 -> Text summarization
 ```
 
-# Installing the required packages and libraries
+#### Installing the required packages and libraries
 (Use the requirements.txt and install the
 libraries and packages in a virtual env)
 
-# General command to run any given file
+#### General command to run any given file
  ```python <filename.py>```
 
-# In order to generate the "output_data_cleaned.csv"
+#### In order to generate the "output_data_cleaned.csv"
 change the ```"data_cell.json"``` path to your local path in the file ```submit_q0.py```
 run the script and the ```.csv``` is generated
 
